@@ -37,6 +37,6 @@
 
 ### Github Stats 🚀
 
-" alt="ryasya"></a></
+
 <p align="center"><a href="https://github.com/ryasya"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryasya&theme=radical&layout=compact"></a></p> 
 
