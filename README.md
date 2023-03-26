@@ -5,7 +5,7 @@
 
 <p align="center">
 
-- 👤 My name is Arya Eka
+- 👤 Jett Main?
 - 💌 I am 16 years old 
 
 </p>
