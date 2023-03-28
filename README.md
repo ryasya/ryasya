@@ -28,7 +28,9 @@
 <p align="center">
  <img src="https://gifdb.com/images/file/valorant-jett-promo-art-c6235bh6l9ggikea.gif">
 </p>
-
+<p align="center">
+  ID = Ciel#Log0
+</p>
 ------
 
 ### Spotify Playing 🎧
