@@ -36,10 +36,9 @@
 
 ### Spotify Playing 🎧
 
-    <a align="center>
+    <div align="center">
 <a href="https://open.spotify.com/user/31ohvxcrpucqdlbug7thpougbxs4" target="_blank"> ![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=31ohvxcrpucqdlbug7thpougbxs4&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31ohvxcrpucqdlbug7thpougbxs4&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true&bar_color=4bbe53&bar_color_cover=true)</a>
-                                                                                    </a>
-
+    </div>                                                         
 ------
 
 ### Github Stats 🚀
