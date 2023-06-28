@@ -1,4 +1,4 @@
-<h1 align="center">Orang Tolol Bersabda!  alt=""><br></h1>
+<h1 align="center">Orang Tolol Bersabda! <br></h1>
 <p align="center">
   <img src="https://github.com/ryasya.png" />
 </p>
