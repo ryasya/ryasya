@@ -5,8 +5,8 @@
 
 <p align="center">
 
-- 👤 Jett Main?
-- 💌 I am 16 years old 
+
+16
 
 </p>
 
